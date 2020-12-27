@@ -6,4 +6,4 @@
 * Here is my article : [How to Push Notification in Android?](https://www.geeksforgeeks.org/how-to-push-notification-in-android/)
 
 ### Demo Application :
-![Alt Text](https://media.giphy.com/media/XcyjMu1QTtgy82R0bb/giphy.gif)
+![Alt Text](https://media.giphy.com/media/NK3pj4EEjx5LDX8FG7/giphy.gif)
